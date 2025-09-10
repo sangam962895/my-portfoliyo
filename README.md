@@ -4,8 +4,8 @@
 Welcome to **Sangam’s Portfolio**—a full-stack developer's showcase featuring expertise in Java, the MERN stack, Machine Learning, and more!
 ## 🚀 Live Demo
 
-👉 [Click Here to View Portfolio](https://my-portfoliyo-2.onrender.com)
-## Overview
+🔗 **[Live Demo](https://movies-recommendation-system-286f.onrender.com)**  
+📌 **Repo:** (linked on portfolio)  
 
 This portfolio website introduces Sangam as an AI | Full-Stack Developer | Java Programmer | Data Structures & Algorithms specialist, with a passion for Generative AI and Machine Learning.
 
